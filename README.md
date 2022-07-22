@@ -14,4 +14,3 @@ The profile of the star is discretized through nodes that are moved backwards at
 At each iteration the code calculates the burning surface, the chamber pressure and the regression ratio for the next iteration.
 
 For visual information on the geometry inputs required by the code, see the .pdf files in the repo.
---------------------------------------------------------------------------------------------------------------------------------
